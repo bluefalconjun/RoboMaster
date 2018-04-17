@@ -14,7 +14,7 @@ Rex is going to watch TV with robo combat. and interesting in how to control tha
 a very good programing learning site for kids. including resource about PvZ/AngryBird/Minecraft;
 
 [cozmo](https://www.anki.com/en-us/cozmo)\
-![cozmo.png](https://github.com/bluefalconjun/RoboMaster/blob/master/Pics/czomo.png)\
+![cozmo.png](https://github.com/bluefalconjun/RoboMaster/blob/master/Pics/cozmo.png)\
 best machine learning toy;
 
 [lego boost](https://www.lego.com/en-us/boost)\
