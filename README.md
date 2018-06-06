@@ -23,6 +23,7 @@ with othter lego bricks this is also a good machine learning toy;
 
 #0x03[steps]
 
-[Cozmo Lesson](https://github.com/bluefalconjun/RoboMaster/blob/master/Lessons/Maze.md)\
+[Cozmo Lesson](https://github.com/bluefalconjun/RoboMaster/blob/master/Lessons/Maze.md)
+
 -----
 with [MIT License](https://github.com/bluefalconjun/RoboMaster/blob/master/LICENSE)
