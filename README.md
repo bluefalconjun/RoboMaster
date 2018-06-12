@@ -4,12 +4,12 @@
 Training record for Rex's programing study
 
 ----
-#0x01[why]
+# 0x01[why]
 
 Rex is going to watch TV with robo combat. and interesting in how to control that. it's a good start point to teach about this. with mathematics & english & logic; 
 
 ----
-#0x02[basic]
+# 0x02[basic]
 
 [Code.org](https://code.org/)
 ![codeorg.png](https://github.com/bluefalconjun/RoboMaster/blob/master/Pics/codeorg.png)
@@ -24,15 +24,16 @@ best machine learning toy;
 with othter lego bricks this is also a good machine learning toy;
 
 ----
-#0x03[steps]
+# 0x03[steps]
 
 [Cozmo Lesson](https://github.com/bluefalconjun/RoboMaster/blob/master/Lessons/Maze.md)
 
 ----
-#0x04[program info]
-[Imperative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/ImperativeProgram.md)
+# 0x04[program info]
 
-[Declarative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/DeclarativeProgram.md)
+#[Imperative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/ImperativeProgram.md)
+
+#[Declarative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/DeclarativeProgram.md)
 
 -----
 with [MIT License](https://github.com/bluefalconjun/RoboMaster/blob/master/LICENSE)
