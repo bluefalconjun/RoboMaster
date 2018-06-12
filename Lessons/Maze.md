@@ -10,7 +10,8 @@ then get back.
 
 lego示意图:
 
-![cozmo.lesson.1.png](https://github.com/bluefalconjun/RoboMaster/blob/master/Pics/cozmo.lesson.1.jpg)
+![cozmo.lesson.1.png](https://github.com/bluefalconjun/RoboMaster/blob/master/Pics/cozmo.lesson.1.png)
+
 
 ## 详细步骤:
 1. 按照lego示意图, 从底板(48*48)上面, 自行搭建迷宫.
