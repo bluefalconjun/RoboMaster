@@ -1,4 +1,4 @@
-[#命令式编程](https://zh.wikipedia.org/wiki/%E6%8C%87%E4%BB%A4%E5%BC%8F%E7%B7%A8%E7%A8%8B)
+## [命令式编程](https://zh.wikipedia.org/wiki/%E6%8C%87%E4%BB%A4%E5%BC%8F%E7%B7%A8%E7%A8%8B)
 
 (英语：Imperative programming), 是一种描述计算机所需作出的行为的编程典范.
 
