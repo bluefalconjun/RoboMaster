@@ -35,5 +35,7 @@ with othter lego bricks this is also a good machine learning toy;
 
 ### [Declarative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/DeclarativeProgram.md)
 
+## 0x05[青少年科技比赛信息](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/Competition.md)
+
 -----
 with [MIT License](https://github.com/bluefalconjun/RoboMaster/blob/master/LICENSE)
