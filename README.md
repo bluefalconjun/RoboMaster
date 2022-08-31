@@ -37,5 +37,7 @@ with othter lego bricks this is also a good machine learning toy;
 
 ## 0x05[青少年科技比赛信息](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/Competition.md)
 
+### [教育部办公厅关于2022-2025学年面向中小学生的全国性竞赛活动名单的公示](http://wap.moe.gov.cn/jyb_xxgk/s5743/s5745/A29/202208/t20220823_654718.html)
+
 -----
 with [MIT License](https://github.com/bluefalconjun/RoboMaster/blob/master/LICENSE)
