@@ -34,7 +34,7 @@ with othter lego bricks this is also a good machine learning toy;
 ### [Imperative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/ImperativeProgram.md)
 
 ### [Declarative programming](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/DeclarativeProgram.md)
-### [DeepSeek的回答]([https://github.com/bluefalconjun/RoboMaster/blob/master/Info/DeclarativeProgram.md](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/%E5%91%BD%E4%BB%A4%E5%BC%8F%E7%BC%96%E7%A8%8B%E5%92%8C%E5%A3%B0%E6%98%8E%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf))
+### [DeepSeek的回答](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/%E5%91%BD%E4%BB%A4%E5%BC%8F%E7%BC%96%E7%A8%8B%E5%92%8C%E5%A3%B0%E6%98%8E%E5%BC%8F%E7%BC%96%E7%A8%8B.pdf)
 
 ----
 ## 0x05[青少年科技比赛信息](https://github.com/bluefalconjun/RoboMaster/blob/master/Info/Competition.md)
